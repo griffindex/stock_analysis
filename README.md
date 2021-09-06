@@ -9,7 +9,7 @@ Initialize a tickerIndex variable to hold a sum.\
 Set the tickerIndex variable to zero using a for loop.\
 Set output arrays for tickerVolume, tickerStartingPrices, and TickerEndingPrices\
 Use conditionals to increase the sum variable by a value when loopping through the input year's sheet.\
-End the loops and include code to conditional format the output sheet.\
+End the loops and include code to conditional format the output sheet.
 
 ## Results
 The client asked for Total Daily Volume in 2018 for the company DAQU Ticker: DQ.\
@@ -17,7 +17,7 @@ The analysis found that this stock's volume declined approximately 62%\
 Another analysis that the client requested was over all the stocks in the raw data from the 2017 and 2018 sheets.
 These had less volume in 2018 compared to 2017. The refactored code executed faster than the originial code, because loops were used to parse through each array assigned to the variable.
 ![Image of 2017 Timer Output](/resources/VBA_Challenge_2017.png)
-![Image of 2018 Timer Output](/resources/VBA_Challenge_2017.png)
+![Image of 2018 Timer Output](/resources/VBA_Challenge_2018.png)
 
 ## Summary
 The tickerIndex variable is used to access and store data frome each ticker into the output array variables.\
