@@ -16,8 +16,9 @@ The client asked for Total Daily Volume in 2018 for the company DAQU Ticker: DQ.
 The analysis found that this stock's volume declined approximately 62%\
 Another analysis that the client requested was over all the stocks in the raw data from the 2017 and 2018 sheets.
 These had less volume in 2018 compared to 2017. The refactored code executed faster than the originial code, because loops were used to parse through each array assigned to the variable.
-![Image of 2017 Timer Output](/resources/VBA_Challenge_2017.png)
-![Image of 2018 Timer Output](/resources/VBA_Challenge_2018.png)
+![Image of 2017 Timer Output](/Resources/VBA_Challenge_2017.png)
+\
+![Image of 2018 Timer Output](/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 The tickerIndex variable is used to access and store data frome each ticker into the output array variables.\
